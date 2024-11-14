@@ -13,13 +13,13 @@ const config: Config = {
   url: 'https://bigcartel.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ctfl-documentation/',
+  baseUrl: process.env.NODE_ENV === 'production' ? '/ctfl-documentation/' : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Big Cartel', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
-
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
