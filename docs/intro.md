@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 
-Introduction
+Introduction OK
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
