@@ -47,7 +47,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/ctfl-card.jpg',
+    image: 'img/ctfl-card.png',
     navbar: {
       title: 'Contentful Documentation',
       logo: {
