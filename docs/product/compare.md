@@ -2,7 +2,8 @@
 sidebar_position: 5
 ---
 
-# Compare ETSY
+# Compare
+
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
