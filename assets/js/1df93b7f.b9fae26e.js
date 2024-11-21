@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctfl_documentation=self.webpackChunkctfl_documentation||[]).push([[4583],{6866:(t,n,c)=>{c.r(n),c.d(n,{default:()=>u});c(6540);var e=c(6347),o=c(4848);function u(){return(0,o.jsx)(e.rd,{to:"/ctfl-documentation/docs/intro"})}}}]);
