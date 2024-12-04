@@ -16,7 +16,7 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 **Title:** This field is used to display the title of the page (both in the header and in the browser).
 
-**Permalink:** This data is used in the url of the post, it is automatically generated when information is entered in the Title field.
+**Permalink:** This data is used in the url of the post, it is automatically generated when information is entered in the `Title` field.
 
 🚨 This field cannot be blank, nor have spaces or special characters.
 
@@ -61,10 +61,10 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 - Enter a author to display on the screen.
 - If no information is entered it will not be displayed on the screen.
-- When the Author is added to the post, the post is automatically assigned to the Contributor page.
+- When the Author is added to the post, the post is automatically assigned to the Contributor page (On the current site, the author is now called contributor).
 - When it is not necessary to assign a specific Author, it is recommended to use the author called Big Cartel.
 
-[Learn how to manage contributors](/docs/category/contributors)
+[Learn how to manage authors](/docs/category/authors)
 
 ## Category
 

@@ -12,7 +12,7 @@ Find the category(ies) you want to unpublish, select them with the check box on 
 
 A menu will appear at the top of the page, click on the `Unpublish` button.
 
-![Unpublish Post](/img/screen5.gif)
+![Unpublish Category](/img/screen2.gif)
 
 ## How to delete a category
 
@@ -22,4 +22,4 @@ A menu will appear at the top of the page, click on the `Delete` button.
 
 🚨 A confirmation window will appear, if you are sure of this action press the `Permanently delete` button.
 
-![Delete Post](/img/screen6.gif)
+![Delete Category](/img/screen3.gif)

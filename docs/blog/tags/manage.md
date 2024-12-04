@@ -14,34 +14,23 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 ## Main Fields
 
-**Title:** This field is used to display the title of the page (both in the header and in the browser).
+**Name:** This field is used to display the title of the page (both in the header and in the browser).
 
-**Permalink:** This data is used in the url of the category, it is automatically generated when information is entered in the `Title` field.
+**Permalink:** This data is used in the url of the tag, it is automatically generated when information is entered in the `Name` field.
 
 🚨 This field cannot be blank, nor have spaces or special characters.
 
 **Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
 
-**Background Color:** In this field you can select a specific color for the background of this category.
+**Background Color:** In this field you can select a specific color for the background of this tag.
 
 ⚠️ This option is deprecated in the current version of the site.
 
-**Text Color:** In this field you can select a specific color for the text of this category.
+**Text Color:** In this field you can select a specific color for the text of this tag.
 
 ⚠️ This option is deprecated in the current version of the site.
 
 **Grid Size:** Select the number of columns to display the posts (2, 3, 4).
-
-**First Post Side:** This multiple selection field indicates in which position the post grid will start.
-
-**Banner Position:** This field indicates in which position of the post grid the banner will be displayed.
-
-ℹ️ When displaying the 3-column grid, position 4 -for example- would be the first position to the left of the second row.
-
-## Banner
-
-- Enter a component of type Banner to display inside the post grid.
-- If no information is entered it will not be displayed on the screen.
 
 ## Call to Action
 
