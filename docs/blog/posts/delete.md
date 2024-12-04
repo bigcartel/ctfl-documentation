@@ -1,23 +1,25 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Delete
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+To delete a post, it is required that they are `Unpublished` or in `Draft` mode.
 
-Docusaurus has **much more to offer**!
+## Unpublish or Draft
 
-Have **5 more minutes**? Take a look at **[versioning](https://google.com)** and .
+Find the post(s) you want to unpublish, select them with the check box on the left side of each one.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+A menu will appear at the top of the page, click on the `Unpublish` button.
 
-## What's next?
+![Unpublish Post](/img/screen2.gif)
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+## How to delete a post
+
+Find the post(s) you want to delete, select them with the check box on the left side of each one.
+
+A menu will appear at the top of the page, click on the `Delete` button.
+
+🚨 A confirmation window will appear, if you are sure of this action press the `Permanently delete` button.
+
+![Delete Post](/img/screen3.gif)
