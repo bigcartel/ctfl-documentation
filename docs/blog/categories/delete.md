@@ -20,6 +20,8 @@ Find the category(ies) you want to delete, select them with the check box on the
 
 A menu will appear at the top of the page, click on the `Delete` button.
 
-🚨 A confirmation window will appear, if you are sure of this action press the `Permanently delete` button.
+:::danger
+A confirmation window will appear, if you are sure of this action press the `Permanently delete` button.
+:::
 
 ![Delete Category](/img/screen3.gif)

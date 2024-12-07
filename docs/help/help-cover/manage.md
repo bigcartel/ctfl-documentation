@@ -22,36 +22,29 @@ This page must **NOT** be **Unpublished**, if this action is performed the websi
 
 **Title:** This field is used to display the title of the page (both in the header and in the browser).
 
-**Meta Title:** This field helps to specify a title for the page metadata, this field is optional, so if it is blank the information obtained from the `Title` field will be used.
+**Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
 
-**Meta Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
+## Trending Articles
 
-**Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
-
-## Home Featured Posts
-
-- Enter up to 5 posts that you want to highlight at the top of the page.
-- The first post is shown as the cover page, the others will be shown in 2 columns.
-- Use the 6-dot menu `⋮⋮` on the left of each post to drag and drop posts to arrange them to your requirements.
-- If no option is entered, this section will disappear from the screen.
-
-[Learn how to manage posts](/docs/category/posts)
-
-## Categories
-
-- Enter up to 4 categories to display.
+- Select some articles that you would like to show as "trending".
 - Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
 - If no option is entered, this section will disappear from the screen.
 
-[Learn how to manage categories](/docs/category/categories)
+[Learn how to manage articles](/docs/category/articles)
 
-## Primary Nav Items
+## Home Topics
 
-- Enter up to 4 tags to display.
+- Select a few topics to display on the grid.
 - Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
-- If no option is entered, this section will disappear from the screen.
 
-[Learn how to manage tags](/docs/category/tags)
+[Learn how to manage topics](/docs/category/topics)
+
+## FAQs
+
+- Select a few FAQs to display on the list.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+
+[Learn how to manage FAQs](/docs/components/faqs)
 
 ## Call to Action
 

@@ -8,9 +8,11 @@ sidebar_position: 2
 
 When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
-ℹ️ To visualize the changes in the website in production, you must wait approximately **15 minutes** after pressing the `Publish Changes` button.
+:::info
+To visualize the changes in the website in production, you must wait approximately **15 minutes** after pressing the `Publish Changes` button.
 
-ℹ️ When you unpublish a post, it will no longer be visible on the website in production nor in the internal search.
+When you unpublish a post, it will no longer be visible on the website in production.
+:::
 
 ## Main Fields
 
@@ -18,19 +20,27 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 **Permalink:** This data is used in the url of the post, it is automatically generated when information is entered in the `Title` field.
 
-🚨 This field cannot be blank, nor have spaces or special characters.
+:::danger
+This field cannot be blank, nor have spaces or special characters.
+:::
 
 **Published at:** This date is used to show the creation date, as well as to order the list starting with the most recent.
 
 **Image:** The image is used as the cover of the post.
 
-ℹ️ Horizontal images are recommended, a good aspect ratio would be 16:9.
+:::tip
+Horizontal images are recommended, a good aspect ratio would be 16:9.
+:::
+
+[Learn how to manage Assets](/docs/components/assets)
 
 **Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
 
 **Body RT:** Here is published all the content that will be shown in the post.
 
-ℹ️ Being a **Rich Text** field, it has multiple layout functions, titles, text formatting, listings and tables.
+:::note
+Being a **Rich Text** field, it has multiple layout functions, titles, text formatting, listings and tables.
+:::
 
 **Time to Read:** This field is read-only, and the information is automatically calculated when the `Body RT` field is updated.
 
@@ -38,15 +48,19 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 **Meta Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
 
-**Recommended Grid Size:** Select the number of columns to display (2, 3, 4) the Related Posts.
+**Recommended Grid Size:** Select the number of columns to display the Related Posts (2, 3, 4).
 
 **Background Color:** In this section you can select a specific color for the background of this post.
 
-⚠️ This option is deprecated in the current version of the site.
+:::note
+This option is deprecated in the current version of the site.
+:::
 
 **Text Color:** In this section you can select a specific color for the text of this post.
 
-⚠️ This option is deprecated in the current version of the site.
+:::note
+This option is deprecated in the current version of the site.
+:::
 
 ## Tags
 
@@ -84,3 +98,5 @@ When a change is generated in the Entry, it goes to `Changed` Status, the change
 
 - Enter a Call to Action component to display on the inside of the page.
 - If no information is entered it will not be displayed on the screen.
+
+[Learn how to manage Call to Action](/docs/components/calltoaction)
