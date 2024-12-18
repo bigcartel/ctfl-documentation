@@ -4,20 +4,35 @@ sidebar_position: 1
 
 # Assets
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+## Publish
 
-Docusaurus has **much more to offer**!
+When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
-Have **5 more minutes**? Take a look at **[versioning](https://google.com)** and .
+:::info
+When you unpublish a post, it will no longer be visible on the website in production.
+:::
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+## Main Fields
 
-## What's next?
+**Title:** This field is used to internally identify the component.
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+**Description:** This field helps to describe more information about the asset, it is for internal use only.
+
+**File:** Here you enter the compatible file to an media file (jpg, png, webp, gif, avif, tiff).
+
+![Import Asset](/img/screen12.png)
+
+:::info
+There are multiple channels to import images to Contentful, these are:
+
+- My device: Select an asset from your device. You can import them by clicking the document shape button. You can also drag and drop files directly from your directory.
+- Link (URL): Enter a direct URL of an image from the Internet.
+- Web search: Use the integrated search engine to search for assets on the internet as if you were using the browser.
+- Facebook: Login to the platform and you will be able to select assets to import.
+- Instagram: Login to the platform and you will be able to select assets to import.
+- Drive: Login to the platform and you will be able to select assets to import.
+- Dropbox: Login to the platform and you will be able to select assets to import.
+- Take photo: Take an image directly using your device's camera.
+- Record video: Record a video directly using your device's camera.
+- Record audio: Record audio directly from your device.
+:::

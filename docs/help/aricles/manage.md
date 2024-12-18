@@ -38,13 +38,13 @@ This option is only used when in a [Topic](/docs/help/topic/manage#main-fields) 
 
 **Effective Date:** This date is used to show the creation date, as well as to order the list starting with the most recent.
 
-**Description RT:** This field is used to create a summary of the article to display under the title.
+**Description RT:** This field is used to create a summary of the article to display under the title. (RT stands for Rich Text).
 
-**Body RT:** Here is published all the content that will be shown in the article. (RT stands for Rich Text).
+[Learn how to manage richtext editor](/docs/components/richtext)
 
-:::note
-Being a **Rich Text** field, it has multiple layout functions, titles, text formatting, listings and tables.
-:::
+**Body RT:** Here is published all the content that will be shown in the article.
+
+[Learn how to manage richtext editor](/docs/components/richtext)
 
 **Time to Read:** This field is read-only, and the information is automatically calculated when the `Body RT` field is updated.
 
@@ -52,9 +52,15 @@ Being a **Rich Text** field, it has multiple layout functions, titles, text form
 
 **Web Steps RT:** Here are the steps to follow for the website version.
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 **IOS Steps RT:** Here we specify the steps to follow for the version of applications for devices using Apple operating system.
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 **Android Steps RT:** Here we specify the steps to follow for the version of applications for devices using Android operating system.
+
+[Learn how to manage richtext editor](/docs/components/richtext)
 
 **Development Status:** This field displays messages about the development status of the article.
 
@@ -83,8 +89,7 @@ This option is deprecated in the current version of the site.
 
 ## FAQs
 
-- Select a few FAQs to display on the list.
-- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+- Enter a FAQs Section component to display in your article.
 
 [Learn how to manage FAQs](/docs/components/faqs)
 

@@ -26,6 +26,8 @@ This field cannot be blank, nor have spaces or special characters.
 
 **Description RT:** This information will be displayed on the page under the name. (RT stands for Rich Text).
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 **View:** Select the _"list"_ option to display the items in text mode or select the _"Card"_ option to display a card grid of the items.
 
 **Development Status:** This field displays messages about the development status of the topic.
@@ -63,7 +65,6 @@ This option is deprecated in the current version of the site.
 
 ## FAQs
 
-- Select a few FAQs to display on the list.
-- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+- Enter a FAQs Section component to display in your topic.
 
 [Learn how to manage FAQs](/docs/components/faqs)

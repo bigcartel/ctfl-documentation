@@ -4,44 +4,37 @@ sidebar_position: 4
 
 # Templates
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Publish
 
-## Getting Started
+When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
-Get started by **creating a new site**.
+:::info
+To visualize the changes in the website in production, you must wait approximately **15 minutes** after pressing the `Publish Changes` button.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+When you unpublish a post, it will no longer be visible on the website in production.
+:::
 
-### What you'll need
+## Main Fields
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+**Name:** This field is used to internally identify the document.
 
-## Generate a new site
+**Title:** This field is used to display the title of the page (both in the header and in the browser).
 
-Generate a new Docusaurus site using the **classic template**.
+**Permalink:** This data is used in the url of the article, it is automatically generated when information is entered in the `Title` field.
 
-The classic template will automatically be added to your project after you run the command:
+:::danger
+This field cannot be blank, nor have spaces or special characters.
+:::
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+**Meta Title:** This field helps to specify a title for the page metadata, this field is optional, so if it is blank the information obtained from the `Title` field will be used.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**Meta Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+**Gradient Color:** In this section you can select a specific color for the background gradient of this page.
 
-## Start your site
+**Section:** This multiple selection field helps to indicate which directory would be associated with the page `product`, `company`, `resources`, `plans`.
 
-Run the development server:
+## Blocks
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Enter multiple components to display on the screen.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.

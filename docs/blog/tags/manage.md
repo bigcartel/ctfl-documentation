@@ -26,6 +26,8 @@ This field cannot be blank, nor have spaces or special characters.
 
 **Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 **Background Color:** In this field you can select a specific color for the background of this tag.
 
 :::note

@@ -28,6 +28,8 @@ This page must **NOT** be **Unpublished**, if this action is performed the websi
 
 **Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 ## Home Featured Posts
 
 - Enter up to 5 posts that you want to highlight at the top of the page.

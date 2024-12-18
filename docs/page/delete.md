@@ -12,11 +12,11 @@ Find the author(s) you want to unpublish, select them with the check box on the 
 
 A menu will appear at the top of the page, click on the `Unpublish` button.
 
-![Unpublish Author](/img/screen2.gif)
+![Unpublish page](/img/screen2.gif)
 
-## How to delete a author
+## How to delete a page
 
-Find the author(s) you want to delete, select them with the check box on the left side of each one.
+Find the page(s) you want to delete, select them with the check box on the left side of each one.
 
 A menu will appear at the top of the page, click on the `Delete` button.
 
@@ -24,4 +24,4 @@ A menu will appear at the top of the page, click on the `Delete` button.
 A confirmation window will appear, if you are sure of this action press the `Permanently delete` button.
 :::
 
-![Delete Author](/img/screen3.gif)
+![Delete page](/img/screen3.gif)

@@ -1,23 +1,32 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # FAQs
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+## Publish
 
-Docusaurus has **much more to offer**!
+When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
-Have **5 more minutes**? Take a look at **[versioning](https://google.com)** and .
+:::info
+When you unpublish a post, it will no longer be visible on the website in production.
+:::
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+## Main Fields
 
-## What's next?
+**Name:** This field is used to internally identify the component.
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+**Title:** This field displays the title of the FAQs section.
+
+**Description:** This information will be displayed on the page under the title.
+
+**Additional Information:** This rich text field is used to supplement the FAQs section under the questions with relevant content.
+
+## FAQs
+
+- Select some components of the Help FAQ. type to display questions on the indicated topic.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+
+:::info
+The Help FAQ components contain Rich Text editors to describe their content.
+:::

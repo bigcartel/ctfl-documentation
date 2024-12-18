@@ -1,8 +1,8 @@
 {
   "label": "Product",
-  "position": 5,
+  "position": 999,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Learn the procedures to perform the different actions to manage diferent pages on Product pages."
   }
 }

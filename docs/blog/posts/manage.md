@@ -36,11 +36,11 @@ Horizontal images are recommended, a good aspect ratio would be 16:9.
 
 **Description RT:** This information will be displayed on the page under the title. (RT stands for Rich Text).
 
+[Learn how to manage richtext editor](/docs/components/richtext)
+
 **Body RT:** Here is published all the content that will be shown in the post.
 
-:::note
-Being a **Rich Text** field, it has multiple layout functions, titles, text formatting, listings and tables.
-:::
+[Learn how to manage richtext editor](/docs/components/richtext)
 
 **Time to Read:** This field is read-only, and the information is automatically calculated when the `Body RT` field is updated.
 
