@@ -1,8 +1,8 @@
 ---
-sidebar_position: 13
+sidebar_position: 18
 ---
 
-# Scripts
+# Video Block
 
 ## Publish
 
@@ -16,10 +16,4 @@ When you unpublish a post, it will no longer be visible on the website in produc
 
 **Title:** This field is used to internally identify the component.
 
-**Post URL:** in this field you enter all the Javascript script that is required to be executed when the document is loaded. The code must be wrapped in the _'script'_ tag, see example below.
-
-```
-<script type="text/javascript">
-// Your JS code here...
-</script>
-```
+**Post URL:** Enter the script of the video to insert in the page (embedded or Iframes).

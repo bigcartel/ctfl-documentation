@@ -1,16 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 # FAQs
-
-## Publish
-
-When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
-
-:::info
-When you unpublish a post, it will no longer be visible on the website in production.
-:::
 
 ## Main Fields
 

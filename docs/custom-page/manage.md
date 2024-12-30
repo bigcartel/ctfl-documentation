@@ -6,53 +6,47 @@ sidebar_position: 2
 
 ## Publish
 
-When a change is generated in the Entry, it goes to **Changed** Status, the changes will not be reflected until it is **Publish Changes**.
+When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
 :::info
 To visualize the changes in the website in production, you must wait approximately **15 minutes** after pressing the `Publish Changes` button.
 
-When you unpublish a author, it will no longer be visible on the website in production.
+When you unpublish a post, it will no longer be visible on the website in production.
 :::
 
 ## Main Fields
 
-**Name:** This field is used to display the title of the page (both in the header and in the browser).
+**Title:** This field is used to display the title of the page (both in the header and in the browser).
 
-**Permalink:** This data is used in the url of the tag, it is automatically generated when information is entered in the `Name` field.
+**Permalink:** This data is used in the url of the article, it is automatically generated when information is entered in the `Title` field.
 
 :::danger
 This field cannot be blank, nor have spaces or special characters.
 :::
 
-**Image:** This image is used to show the author's face.
+**Meta Title:** This field helps to specify a title for the page metadata, this field is optional, so if it is blank the information obtained from the `Title` field will be used.
 
-:::tip
-The use of square images is recommended.
-:::
+**Meta Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
 
-[Learn how to manage Assets](/docs/components/assets)
+## Blocks
 
-**Bio RT:** This section introduces the author's biography. (RT stands for Rich Text).
+- Enter multiple components to display on the screen.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
 
-[Learn how to manage richtext editor](/docs/components/richtext)
+## Learn how to manage
 
-**Background Color:** In this field you can select a specific color for the background of this tag.
-
-:::note
-This option is deprecated in the current version of the site.
-:::
-
-**Text Color:** In this field you can select a specific color for the text of this tag.
-
-:::note
-This option is deprecated in the current version of the site.
-:::
-
-**Grid Size:** Select the number of columns to display the posts (2, 3, 4).
-
-## Call to Action
-
-- Enter a Call to Action component to display on the inside of the page.
-- If no information is entered it will not be displayed on the screen.
-
-[Learn how to manage Call to Action](/docs/components/calltoaction)
+- [Banner](/docs/components/banner)
+- [Call to Action](/docs/components/calltoaction)
+- [Copy](/docs/components/copy)
+- [Counter Panel](/docs/components/counterpanel)
+- [FAQs Section](/docs/components/faqs)
+- [Grid](/docs/components/grid)
+- [Hero](/docs/components/hero)
+- [List Section](/docs/components/listsection)
+- [Plan Section](/docs/components/plansection)
+- [Plan Themes](/docs/components/planthemes)
+- [Slider](/docs/components/slider)
+- [Template](/docs/components/template)
+- [Testimonial](/docs/components/testimonial)
+- [Toggle Button](/docs/components/togglebutton)
+- [Video Block](/docs/components/videoblock)
