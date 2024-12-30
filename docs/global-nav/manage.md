@@ -32,7 +32,7 @@ The `Link` component is used to display a direct link to a page.
 The `Grid` component is used to create a submenu that contains one or more Links components inside.
 :::
 
-[Learn how to manage Links](/docs/components/link) | [Learn how to manage grids](/docs/components/grid)
+[Learn how to manage Links](/docs/components/link) | [Learn how to manage Grids](/docs/components/grid)
 
 ## Footer
 
@@ -43,7 +43,7 @@ The `Grid` component is used to create a submenu that contains one or more Links
 The `Grid` component is used to create a submenu that contains one or more Links components inside.
 :::
 
-[Learn how to manage grids](/docs/components/grid)
+[Learn how to manage Grids](/docs/components/grid)
 
 ## Legal
 
