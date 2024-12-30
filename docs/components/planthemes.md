@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Plan Themes
@@ -28,3 +28,5 @@ When you unpublish a post, it will no longer be visible on the website in produc
 ## Button
 
 - Select a component of type `Link` to create a link to a specific page.
+
+[Learn how to manage Links](/docs/components/link)

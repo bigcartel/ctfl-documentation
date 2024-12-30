@@ -9,44 +9,49 @@ sidebar_position: 2
 When a change is generated in the Entry, it goes to `Changed` Status, the changes will not be reflected until it is `Publish Changes`.
 
 :::info
-To visualize the changes in the website in production, you must wait approximately **15 minutes** after pressing the `Publish Changes` button.
-
-When you unpublish a post, it will no longer be visible on the website in production.
+This is the only component, which changes are reflected in real time (no need to wait for the build time).
 :::
 
 ## Main Fields
 
-**Title:** This field is used to display the title of the page (both in the header and in the browser).
+**Title:** This field is used to internally identify the component.
 
-**Permalink:** This data is used in the url of the article, it is automatically generated when information is entered in the `Title` field.
+## Announcement Bar
 
-:::danger
-This field cannot be blank, nor have spaces or special characters.
-:::
+- Enter a Slider type component to display on the screen.
+- If no option is entered, this section will disappear from the screen.
 
-**Meta Title:** This field helps to specify a title for the page metadata, this field is optional, so if it is blank the information obtained from the `Title` field will be used.
+## Header
 
-**Meta Description:** Enter a description to display in the page metadata, this field is optional, if left blank a generic description stored in the system will be used.
-
-## Blocks
-
-- Enter multiple components to display on the screen.
+- Enter `Link` or `Grid` type components to display in the main menu.
 - Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
 
-## Learn how to manage
+:::note
+The `Link` component is used to display a direct link to a page.
 
-- [Banner](/docs/components/banner)
-- [Call to Action](/docs/components/calltoaction)
-- [Copy](/docs/components/copy)
-- [Counter Panel](/docs/components/counterpanel)
-- [FAQs Section](/docs/components/faqs)
-- [Grid](/docs/components/grid)
-- [Hero](/docs/components/hero)
-- [List Section](/docs/components/listsection)
-- [Plan Section](/docs/components/plansection)
-- [Plan Themes](/docs/components/planthemes)
-- [Slider](/docs/components/slider)
-- [Template](/docs/components/template)
-- [Testimonial](/docs/components/testimonial)
-- [Toggle Button](/docs/components/togglebutton)
-- [Video Block](/docs/components/videoblock)
+The `Grid` component is used to create a submenu that contains one or more Links components inside.
+:::
+
+[Learn how to manage Links](/docs/components/link) | [Learn how to manage grids](/docs/components/grid)
+
+## Footer
+
+- Enter `Grid` type components to display in the footer menu.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+
+:::note
+The `Grid` component is used to create a submenu that contains one or more Links components inside.
+:::
+
+[Learn how to manage grids](/docs/components/grid)
+
+## Legal
+
+- Enter `Link` type components to display in the footer legal menu.
+- Use the 6-dot menu `⋮⋮` on the left of each block to drag and drop section to arrange them to your requirements.
+
+:::note
+The `Link` component is used to display a direct link to a page.
+:::
+
+[Learn how to manage Links](/docs/components/link)

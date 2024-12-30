@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Plan Section
@@ -65,3 +65,4 @@ This option is deprecated in the current version of the site.
 
 - Select a component of type `Link` to create a link to a specific page.
 
+[Learn how to manage Links](/docs/components/link)
